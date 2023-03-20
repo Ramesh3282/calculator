@@ -1,0 +1,21 @@
+
+button{
+    width: 80px;
+}
+input{
+    width: 333px;
+    text-align: right;
+}
+.cal{
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 340px;
+    padding-left: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+   
+}
+#result{
+
+    width: 333px;
+}
